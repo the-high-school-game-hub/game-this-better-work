@@ -1,5 +1,1 @@
-Number_1 = float(input("what is the first number?"))
-Number_2 = float(input("what is the second number?"))
-operation_symbol = input("what is the operation symbol?")
-answer = ({Number_1} {operation_symbol} {Number_2})
-print (" Your answer is "{answer} )
+
